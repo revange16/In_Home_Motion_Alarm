@@ -13,6 +13,26 @@
 
 
 (3) 🏆 END RESULT & PROJECT SO FAR:
+- I plan to continue working on this project by building a proper casing using cardboard and connecting a battery pack. That way it can be self contained and more aesthetically pleasing.
 
 ![Demo Video](homeAlarmDemo.mov)
+
+--------------------------------------------------------------------------------------------------------------------------
+
+## Hardware Used
+1. Arduino Uno
+2. BreadBoard
+3. RGB Led
+4. 330 Ohm Resistors
+5. Piezo Buzzer
+6. Jumper Wires
+7. Distance Sensor
+8. Tape
+9. Carboard Box
+
+## Software Used
+1. Arduino IDE
+
+## Resources
+1. SparkFun Inventor's Kit Experiment Guide --> https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-experiment-guide---v41/circuit-3c-motion-alarm
 
