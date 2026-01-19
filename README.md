@@ -6,7 +6,7 @@
 
 ![Original Sketch](homeAlarmSketch.jpeg)
 
-(2) 🧰 🛠️ PROCESS:
+(2) 🧰 🛠️ DEVELOPMENT PROCESS:
 - For this project i relied heavily on the Sparkfun Inventor's Kit Experiemnet Guide (Circuit 3C: Motion Alarm). I convigured the code so that it was more of "latch" system rather than a standard motion alarm. So instead of the alarm only sounding when something was in range, the moment something triggered the alarm it would alert indefinitely until manually reset. This was for in the event someone closed the door to try and pretend they weren't there. Once the main software and hardware was setup it was time to mount the circuit to the wall.
 
 ![Prototype](homeAlarmPrototype.jpeg)
