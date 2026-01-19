@@ -14,3 +14,6 @@ For this project i relied heavily on the Sparkfun Inventor's Kit Experiemnet Gui
 
 
 (3) END RESULT & PROJECT SO FAR
+
+![Demo Video](homeAlarmDemo.mov)
+
